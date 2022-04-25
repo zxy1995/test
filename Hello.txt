@@ -3,3 +3,4 @@ Test Change;
 Test Delete;
 git has mutable index called stage (暂存区)
 git tracks changes(git 跟踪的是修改而非文件)
+test-fix-bug: git is a free software!
